@@ -4,6 +4,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Jupyter Checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
 # C extensions
 *.so
 
